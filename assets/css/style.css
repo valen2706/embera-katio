@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #b3b3b3;
+  color: #333333;
 }
 
 a {
@@ -486,6 +486,7 @@ section {
   font-size: 28px;
   font-family: "Poppins", sans-serif;
 }
+
 .about .content ul {
   list-style: none;
   padding: 0;
